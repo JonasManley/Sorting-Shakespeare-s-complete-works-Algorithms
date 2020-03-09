@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace SortingShakespeare
+namespace SortingShakespeare.Helpers
 {
     class ReadTxtFile
     {
@@ -14,9 +14,9 @@ namespace SortingShakespeare
         private string shakespearTextLowercaseOnlyText;
         private string[] shakespearTextArray;
 
-        public ReadTxtFile()
+        public ReadTxtFile(string filelocation)
         {
-            shakespearText = System.IO.File.ReadAllText(@"C:\Users\Jonas\Documents\GitHub\Sorting-Shakespeare-s-complete-works-Algorithms\SortingShakespeare\SortingShakespeare\shakespeare-complete-works.txt");
+            shakespearText = System.IO.File.ReadAllText(filelocation);
             shakespearTextLowercase = shakespearText.ToLower();
             ModifiData();
         }
@@ -39,7 +39,7 @@ namespace SortingShakespeare
         {
             Regex regex = new Regex("[^a-zA-Z]");
             shakespearTextLowercaseOnlyText = regex.Replace(shakespearTextLowercase, " ");
-            shakespearTextArray = shakespearTextLowercaseOnlyText.Split(' ');
+            shakespearTextArray = shakespearTextLowercaseOnlyText.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
         }
 
     }

@@ -10,6 +10,14 @@ namespace SortingShakespeare
     {
         static void Main(string[] args)
         {
+            ReadTxtFile readTxtFile = new ReadTxtFile(); 
+
+            // Console.WriteLine(readTxtFile.ShakespearText);   Check if text has beeen read.
+            foreach (var item in readTxtFile.ShakespearTextArray)
+            {
+                Console.WriteLine(item);
+            }
+            Console.ReadLine();
         }
     }
 }

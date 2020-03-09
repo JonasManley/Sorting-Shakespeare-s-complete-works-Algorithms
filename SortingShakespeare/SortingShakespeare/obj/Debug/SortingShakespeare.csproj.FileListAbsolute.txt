@@ -1,0 +1,6 @@
+C:\Users\Jonas\Documents\GitHub\Sorting-Shakespeare-s-complete-works-Algorithms\SortingShakespeare\SortingShakespeare\bin\Debug\SortingShakespeare.exe.config
+C:\Users\Jonas\Documents\GitHub\Sorting-Shakespeare-s-complete-works-Algorithms\SortingShakespeare\SortingShakespeare\bin\Debug\SortingShakespeare.exe
+C:\Users\Jonas\Documents\GitHub\Sorting-Shakespeare-s-complete-works-Algorithms\SortingShakespeare\SortingShakespeare\bin\Debug\SortingShakespeare.pdb
+C:\Users\Jonas\Documents\GitHub\Sorting-Shakespeare-s-complete-works-Algorithms\SortingShakespeare\SortingShakespeare\obj\Debug\SortingShakespeare.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\Sorting-Shakespeare-s-complete-works-Algorithms\SortingShakespeare\SortingShakespeare\obj\Debug\SortingShakespeare.exe
+C:\Users\Jonas\Documents\GitHub\Sorting-Shakespeare-s-complete-works-Algorithms\SortingShakespeare\SortingShakespeare\obj\Debug\SortingShakespeare.pdb

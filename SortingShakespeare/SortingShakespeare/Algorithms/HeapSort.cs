@@ -12,7 +12,7 @@ namespace SortingShakespeare.Algorithms
         static int x = -1;
 
         // Predefining the heap array 
-        static String[] heap = new String[10000];
+        static String[] heap = new String[100000000];
 
         // Defining formation of the heap 
         static void heapForm(String k)

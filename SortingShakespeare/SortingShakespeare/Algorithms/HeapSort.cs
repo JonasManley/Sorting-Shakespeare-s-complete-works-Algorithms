@@ -11,11 +11,11 @@ namespace SortingShakespeare.Algorithms
         // Used for index in heap 
         static int x = -1;
 
-        // Predefining the heap array 
-        static String[] heap = new String[100000000];
+        
+        static string[] heap;
 
         // Defining formation of the heap 
-        static void heapForm(String k)
+        static void heapForm(string k)
         {
             x++;
 
@@ -23,7 +23,7 @@ namespace SortingShakespeare.Algorithms
 
             int child = x;
 
-            String tmp;
+            string tmp;
 
             int index = x / 2;
 
@@ -35,7 +35,6 @@ namespace SortingShakespeare.Algorithms
                 // stored element 
                 if (heap[index].CompareTo(heap[child]) > 0)
                 {
-
                     // Swapping the current index 
                     // with its child 
                     tmp = heap[index];
@@ -61,7 +60,7 @@ namespace SortingShakespeare.Algorithms
 
             while (x >= 0)
             {
-                String k;
+                string k;
                 k = heap[0];
 
                 // Set first element 
@@ -72,7 +71,7 @@ namespace SortingShakespeare.Algorithms
                 // size of the string 
                 x = x - 1;
 
-                String tmp;
+                string tmp;
 
                 int index = 0;
 
@@ -129,10 +128,12 @@ namespace SortingShakespeare.Algorithms
             }
         }
 
+        
         // Utility function 
         public static void Heapsort(String[] k, int n)
         {
-
+            
+            heap = new string[k.Length];
             // To heapiFy 
             for (int i = 0; i < n; i++)
             {

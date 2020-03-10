@@ -4,3 +4,9 @@ C:\Users\Jonas\Documents\GitHub\Sorting-Shakespeare-s-complete-works-Algorithms\
 C:\Users\Jonas\Documents\GitHub\Sorting-Shakespeare-s-complete-works-Algorithms\SortingShakespeare\SortingShakespeare\obj\Debug\SortingShakespeare.csprojAssemblyReference.cache
 C:\Users\Jonas\Documents\GitHub\Sorting-Shakespeare-s-complete-works-Algorithms\SortingShakespeare\SortingShakespeare\obj\Debug\SortingShakespeare.exe
 C:\Users\Jonas\Documents\GitHub\Sorting-Shakespeare-s-complete-works-Algorithms\SortingShakespeare\SortingShakespeare\obj\Debug\SortingShakespeare.pdb
+C:\Users\Bruger\source\repos\Sorting-Shakespeare-s-complete-works-Algorithms\SortingShakespeare\SortingShakespeare\bin\Debug\SortingShakespeare.exe.config
+C:\Users\Bruger\source\repos\Sorting-Shakespeare-s-complete-works-Algorithms\SortingShakespeare\SortingShakespeare\bin\Debug\SortingShakespeare.exe
+C:\Users\Bruger\source\repos\Sorting-Shakespeare-s-complete-works-Algorithms\SortingShakespeare\SortingShakespeare\bin\Debug\SortingShakespeare.pdb
+C:\Users\Bruger\source\repos\Sorting-Shakespeare-s-complete-works-Algorithms\SortingShakespeare\SortingShakespeare\obj\Debug\SortingShakespeare.csprojAssemblyReference.cache
+C:\Users\Bruger\source\repos\Sorting-Shakespeare-s-complete-works-Algorithms\SortingShakespeare\SortingShakespeare\obj\Debug\SortingShakespeare.exe
+C:\Users\Bruger\source\repos\Sorting-Shakespeare-s-complete-works-Algorithms\SortingShakespeare\SortingShakespeare\obj\Debug\SortingShakespeare.pdb

@@ -4,7 +4,6 @@
 ## Requirements 
 
 - C# (Visual Studio 19).
-- Download the folder and open it with Visual Studio
 
 
 ## Setup Guide

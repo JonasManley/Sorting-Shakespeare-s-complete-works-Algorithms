@@ -1,6 +1,6 @@
 # Mini Project #1 - Sorting Shakespeare’s complete works Algorithms and Data Structures
 
-We also have included a heap sort that takes <T> of parameter so can not only sort strings but also doubles and ints in this project.
+We also have included a heap sort that takes any type of parameter so can not only sort strings but also doubles and ints in this project.
 
 ## Requirements 
 
